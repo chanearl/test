@@ -7,3 +7,7 @@ Hello World!
 https://github.com/chanearl/test
 
 README.md
+
+
+### choiks
+이찬얼과장  수고했습니다.
